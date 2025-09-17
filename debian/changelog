@@ -1,3 +1,9 @@
+authd (0.5.6+git250917+1+313505e4) questing; urgency=medium
+
+  * Github build. Run id: 17811263283. Run number: 1.
+
+ -- Shane <66971213+edibotopic@users.noreply.github.com>  Wed, 17 Sep 2025 21:33:57 +0000
+
 authd (0.5.6) questing; urgency=medium
 
   * New launchpad upload
